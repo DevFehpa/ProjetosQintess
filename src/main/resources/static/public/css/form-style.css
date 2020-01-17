@@ -1,0 +1,95 @@
+@charset "UTF-8";
+
+#tecnologia_E_Atividade {
+	width: 600px;
+	height: 30px;
+}
+
+#formacaoAcademica {
+	width: 250px;
+	height: 30px;
+}
+
+#tempo_Experiencia_Funcao {
+	width: 250px;
+	height: 30px;
+}
+
+input[type="text"] {
+	border-color: black;
+}
+
+#idioma {
+	border-color: black;
+}
+
+#quantidadeFilhos {
+	border-color: blacK;
+}
+
+#quaisCertificacao {
+	padding-left: 30px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+}
+
+label {
+	padding-bottom: 20x;
+	padding-top: 15px;
+	font-style: #000000;
+}
+
+.OpSelects {
+	height: 40px;
+	width: 500px;
+	color: black;
+}
+
+#formacaoAcademica {
+	height: 40px;
+	width: 500px;
+	black;
+}
+
+#tempo_Experiencia_Funcao {
+	height: 40px;
+	width: 550px;
+	border-color: black;
+}
+
+#qualArea {
+	height: 40px;
+	width: 550px;
+	border-color: black;
+}
+
+#quantidadeFilhosIdade {
+	height: 40px;
+	width: 500px;
+	border-color: black;
+}
+
+#quaisBeneficios{
+	height: 40px;
+	width: 500px;
+	border-color: black;
+}
+
+#quaisBeneficios {
+	width: 500px;
+	border-color: black;
+}
+
+#salvaFormulario {
+	margin-top: 160px;
+	margin-bottom: 300px;
+	width: 120	px;
+	
+}
+
+body{
+	background-image: url(https://scontent.fcgh7-1.fna.fbcdn.net/v/t1.0-0/p180x540/79547498_2780156398672148_2654727149742718976_o.jpg?_nc_cat=101&_nc_ohc=AYh3XRjSiQQAX8WBK_l&_nc_ht=scontent.fcgh7-1.fna&_nc_tp=1002&oh=0649082701b1c15856b6003254c5df25&oe=5EA6C272)
+	
+	
+}
+

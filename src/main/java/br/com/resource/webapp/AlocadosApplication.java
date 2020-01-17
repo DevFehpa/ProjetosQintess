@@ -1,0 +1,40 @@
+package br.com.resource.webapp;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class AlocadosApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(AlocadosApplication.class, args);
+	}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
